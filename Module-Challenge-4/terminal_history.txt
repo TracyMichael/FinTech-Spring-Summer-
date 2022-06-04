@@ -1,0 +1,50 @@
+  447  conda activate dev
+  448  conda activate dev
+  449  conda list .env
+  450  conda list dotenv
+  451  jupyterlba
+  452  jupyterlab
+  453  jupyter lab
+  454  conda install -c conda-forge jupyterlab
+  455  conda update conda
+  456  conda update anaconda
+  457  jupyter lab
+  458  conda activate dev
+  459  cd Desktop/Fintech-Workspace/CU-VIRT-FIN-PT-03-2022-U-B/
+  460  git pull
+  461  jupyter lab
+  462  conda activate dev
+  463  cd Desktop/Fintech-Workspace/fintech-spring-summer/Module-Challenge-4
+  464  ls
+  465  git clone git@github.com:TracyMichael/Module-Challenge-4.git
+  466  git add .
+  467  git commit -m "First Update"
+  468  git push
+  469  git add .
+  470  ls
+  471  cd ..
+  472  ls
+  473  cd Module-Challenge-4
+  474  git add .
+  475  git commit -m "copy folders"
+  476  git push
+  477  git add .
+  478  git commit -m "App Complete"
+  479  git push
+  480   pip list --format=freeze > requirements.txt
+  481  git add .
+  482  git commit -m "images"
+  483  git push
+  484  git add .
+  485  git commit -m "Final"
+  486  git push
+  487  git add .
+  488  git commit -m "Updates"
+  489  git push
+  490  git add .
+  491  git commit -m "Final"
+  492  git push
+  493  git add .
+  494  git commit -m "Finale"
+  495  git push
+  496  history 50 > terminal_history.txt
